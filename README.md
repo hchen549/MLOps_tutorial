@@ -1,2 +1,3 @@
-# MLOps_tutorial
-Tutorial for HDS 325
+# MLOps_tutorial (10/12)
+
+Tutorial for HDS 325!
